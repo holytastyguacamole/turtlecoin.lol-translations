@@ -1,0 +1,98 @@
+Page: https://turtlecoin.lol/
+
+# Section - banner
+
+1. TurtleCoin è Veloce
+2. TurtleCoin è Semplice
+3. TurtleCoin è Sicuro
+4. TurtleCoin permette di inviare soldi ad amici e aziende in modo divertente, veloce e semplice.
+5. Download
+6. <strong>Disponibile per Windows, Apple e Ubuntu Linux. </strong>Se preferisci il <strong>codice sorgente</strong>, lo trovi <a href="https://github.com/turtlecoin/turtlecoin/">qui</a>, ma dovresti anche contattarci su <a href="http://chat.turtlecoin.lol">discord</a> perchè stiamo cercando persone come te che vogliono partecipare al progetto.
+
+# Section - Download TurtleCoin
+
+1. Seleziona il tuo sistema operativo
+2. Scarica l'ultima versione
+3. Scarica GUI
+4. Scarica CLI
+
+
+# Section - Fun facts
+
+1. Informazioni su Turtle
+2. In TurtleCoin i blocchi sono generati ogni 30 secondi, significa che le transazioni vengono confermate rapidamente.
+3. TurtleCoin ha una blockchain privata: nessuno vede i tuoi soldi eccetto te.
+4. Puoi recuperare un wallet TurtleCoin eliminato tramite le view key e spend key.
+
+
+# Section - Why TurtleCoin?
+
+1. Perchè TurtleCoin?
+2. Transazioni veloci
+3. TurtleCoin genera blocchi ogni 30 secondi, non ogni 10 minuti. I tuoi soldi viaggiano 20 volte più veloce su TurtleCoin rispetto a Bitcoin o BitcoinCash.
+4. Privacy
+5. TurtleCoin ha gli stessi vantaggi di Monero and Aeon per quanto riguarda la privacy. Ogni transazione è privata a meno che tu non scelga di renderla pubblica.
+6. Facile da usare
+7. E' supportato praticamente ogni sistema operativo, anche dal cellulare puoi <a href="http://turtlecoin.lol/wallet">creare un paper-wallet sicuro gratuitamente</a>, ed iniziare con TurtleCoin in meno di 5 minuti.
+8. Facile da minare
+9. TurtleCoin ha già il suo miner CPU di base, ma puoi usare qualsiasi software di mining per Monero a cui sei abituato se vuoi sfruttare la GPU o una mining pool. Noi raccomandiamo <a href="https://github.com/fireice-uk/xmr-stak/releases/latest">XMR-Stak Unified Miner</a>.
+10. Community
+11. La community TurtleCoin è aperta a utenti e sviluppatori. Nessuno ti rimprovererà quando qualcosa non va e accettiamo critiche al nostro lavoro. Unisciti a noi su <a href="http://chat.turtlecoin.lol">Discord</a>.
+12. Supporto
+13. Stiamo facendo crescere una community di sviluppatori e tester nel nostro <a href="http://meta.turtlecoin.lol">GitHub meta-forum</a>. Puoi supportarci testando software e postando bug reports, o semplicemente facendo il tifo per noi.
+
+
+# Section - The story
+
+1. La storia
+2. Il nostro background
+3. La maggior parte dei collaboratori di TurtleCoin hanno una folta, curata barba. <strong>FATTO.</strong></h3>
+4. <em>Questo ci fa guadagnare <strong>+10 punti esperienza</strong>, e migliora la nostra pazienza ed abilità di diagnosi. <i class="far fa-smile"></i></em>
+5. La verità è che la maggior parte di noi sono sviluppatori a tempo pieno in altri progetti, e questo è il nostro modo di tornare alla community con qualcosa di divertente.
+6. Come abbiamo iniziato
+7. Una fredda notte di Dicembre, RockSteady e Bebop stavano bevendo una birra discutendo della follia riguardo dubbie, ingannevoli ICO senza un minimo di prodotto da mostrare. Bebop sosteneva che al giorno d'oggi non è possibile dar vita ad un nuovo progetto senza un team serio, che fa marketing serio, senza un minimo di fondi.
+8. RockSteady si avvicinò lentamente, si passò la barba concentrato, e diede una risposta...
+9. <strong>"Tienimi la birra."</strong>
+10. Quella notte, il 9 Dicembre 2017, era nata TurtleCoin.
+12. Perchè?
+13. Troppi progetti stanno accumulando <strong>troppi fondi</strong> nonostante la maggior parte non abbiano <strong>un cavolo di prodotto</strong>. Abbiamo pensato "perchè non fare il contrario? Iniziare con un progetto divertente, renderlo il più semplice ed accessibile possibile e lasciarlo crescere per conto suo."
+14. Abbiamo molta fiducia nella nostra strategia senza-fondi; se creiamo un buon prodotto, <strong>il valore crescerà da solo</strong>. Se pensi che l'idea sia sbagliata, saremo felici di <a href="http://meta.turtlecoin.lol">parlarne</a>.
+15. Un saggio una volta disse, "Una tartaruga va avanti solo quando tira fuori il collo.."
+
+
+# Section - The fine print
+
+1. Fine Print
+2. Ecco alcuni dettagli veloci sul progetto.
+3. Block Reward medio
+4. 1 Blocco ogni<br> 30 secondi
+5. Sviluppatori <br> <a href="http://chat.turtlecoin.lol">Unisciti a noi</a>
+6. Unisciti a noi
+7. Nessun Premine <br>No Shenanigans
+
+
+# Section  - Roadmap
+
+1. Ciao Turtle
+2. TurtleCoin nasce il <strong>9 Dicembre 2017</strong>.
+3. All'inizio avevamo solo la riga di comando, compilata solo per Linux, e siamo stati ripetutamente bannati da vari forum per aver pubblicato giveaways di TRTL.
+4. GUI Wallets
+5. La community TurtleCoin ha lavorato sodo per rilasciare una esperienza grafica diversa, come anche rinnovando i wallet a riga di comando. Dal primo giorno, ci siamo promessi di rendere TurtleCoin facile da usare, e questo inizia con una buona interfaccia grafica. Prova uno di questi wallet:
+6. Market Partnerships
+7. Abbiamo promesso di rendere i TurtleCoin acquistabili entro il Q2 2018, e abbiamo raggiunto l'obiettivo in vari market.
+8. Inizio sviluppo, Q2 2018
+9. Mobius, Blocchi veloci, No Sync
+10. Una grossa sfida con la proof of work riguarda la sincronizzazione di una grande catena, e i blocchi veloci solitamente non aiutano allo scopo. Il nostro obiettivo è produrre blocchi più veloci in una catena più corta. Questo è forse l'obiettivo più ambizioso, e richiederà molto aiuto per essere completato.
+11. TBA (To be announced)
+12. Karai, Smart Contract semplici
+13. Le reti distribuite e trustless hanno usi che vanno oltre i soldi. Karai è il nostro obiettivo per consentire applicazioni distribuite e network oltre la blockchain principale.
+14. TurtlePay Network
+15. Che vantaggi ha un ATM se non è nelle vicinanze? Tocca-e-paga riguarda ieri; Tocca-e-guadagna è il futuro. Il tuo ATM per le crypto più vicino è nella tua tasca.
+
+
+# Section - Still Interested
+
+1. Abbiamo bisogno di aiuto! Unisciti a noi! No, seriamente! Qualsiasi siano le tue abilità, o le tue idee, siamo pronti ad ascoltarle!
+
+2. Unisciti a noi su Discord
+3. Unisciti a noi su GitHub

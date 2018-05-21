@@ -1,0 +1,28 @@
+# Page Meta
+
+1. TurtleCoin è un modo divertente di inviare soldi, in modo privato, ad amici o aziende. TurtleCoin è una criptovaluta sviluppata dalla community, open source, facile da minare e con un wallet GUI.
+2. TurtleCoin.lol - TurtleCoin la criptovaluta divertente, veloce e facile.
+3. TurtleCoin è un modo divertente di inviare soldi ad amici o aziende.
+4. TurtleCoin | Home Page
+
+
+# Navbar
+
+1. Home
+2. Download
+3. Caratteristiche
+4. La Storia
+5. Specifiche
+6. Roadmap
+7. Supporto
+8. Toggle navigation
+
+
+# Section - Contact
+
+1. Interessato?
+2. Abbiamo bisogno di aiuto! Unisciti a noi! No, seriamente! Qualsiasi siano le tue abilità, o le tue idee, siamo pronti ad ascoltarle!
+3. Unisciti a noi su Discord
+4. Unisciti a noi su GitHub
+5. Grazie!
+
