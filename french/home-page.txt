@@ -31,9 +31,9 @@ Page: https//turtlecoin.lol/
 2. Des transactions rapides
 3. TurtleCoin créé des blocs toutes les 30 secondes, au lieu de toutes les 10 minutes. Votre monnaie circule 20x plus rapidement sur TurtleCoin que sur Bitcoin ou BitcoinCash.
 4. Visibilité
-5. TurtleCoin a les mêmes protection des données privées que Monero Aeon. Toutes les transactions sont privées sauf si vous choisissez de les rendre publiques.
+5. TurtleCoin a les mêmes protection des données privées que Monero et Aeon. Toutes les transactions sont privées sauf si vous choisissez de les rendre publiques.
 6. Facile d'emploi
-7. Nous supportons tous les systèmes d'exploitations, vous pouvez même <a href="http://turtlecoin.lol/wallet">créer un portefeuille papier sécurisé gratuitement</a> et commencer à utililser TurtleCoin en moins de 5 minutes.
+7. Nous supportons tous les systèmes d'exploitations, même <a href="http://turtlecoin.lol/wallet">sur mobile vous pouvez créer un portefeuille sécurisé gratuitement</a> et commencer à utiliser TurtleCoin en moins de 5 minutes.
 8. Facile à Miner
 9. TurtleCoin utilise son propre mineur sur CPU basique, mais vous pouvez aussi utiliser n'importe quel programme de minage de Minero auquel vous êtes habitués si vous préférez miner sur le GPU ou les mining pools. Nous recommendons <a href="https://github.com/fireice-uk/xmr-stak/releases/latest">XMR-Stak Unified Miner </a>.
 10. Communauté
@@ -71,7 +71,7 @@ Page: https//turtlecoin.lol/
 7. Pas de préminage <br>Pas de manigances
  
  
-# Section - Fiche de route
+# Section - Plan
  
 1. Bonjour Turtle
 2. TurtleCoin est né le <strong>9 décembre 2017</strong>.
@@ -80,14 +80,14 @@ Page: https//turtlecoin.lol/
 5. La Communauté TurtleCoin a durement travaillé afin de nous offrir une expérience graphique différente et le rafraichissement de la ligne de commande du portefeuille. Depuis le premier jour, nous avons oeuvré pour rendre TurtleCoin plus simple, et cela commence par un bon GUI. Faites votre choix parmi les portefeuilles suivantes :
 6. Partenaires
 7. Nous espérions que les TurtleCoin seraient echangeable dès le deuxième trimestre de 2018, et cet objectif a été accompli sur plusieurs marchés.
-8. Développement Commencé, Deuxième Trimestre 2018
+8. debut du Développement, Deuxième Trimestre 2018
 9. Mobius, Blocks rapide sans synchro
 10. Synchroniser une chaine immense est un travail douloureux pour le crâne, et les block rapides ne rendent pas la tâche plus rapide. Notre objectif est de produire des blocks plus rapide sur une chaine plus courte.C'est sans doute notre objectif le plus ambitieux, et celui qui necessitera le plus d'aide pour être complêté.
 11. A Venir
 12. Karai, Contrats Simples et Malins
 13. Les réseaux distribués et digne de confiance ont des utilisations au-delà de la monnaie. Karai est notre objectif pour permettre l'activation des applications et des réseaux au-delà de la blockchain principale.
 14. Réseaux TurtlePay
-15. A quoi sert un ATM s'il ne se trouve pas à portée ? Touchez-et-payez, c'est du passé ; Touchez-et-gagnez, c'est l'avenir. Votre Crypto ATM se trouve dans votre poche.
+15. Qu'est ce qui est bien avec un ATM s'il n'est pas à proximité ? Touchez-et-payez, c'est du passé ; Touchez-et-gagnez, c'est l'avenir. Votre Crypto ATM se trouve dans votre poche.
  
  
 #Section - Toujours intéressé
