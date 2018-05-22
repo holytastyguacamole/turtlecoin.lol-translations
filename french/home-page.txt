@@ -20,7 +20,7 @@ Page: https//turtlecoin.lol/
  
 # Section Divers
  
-1. Informations diverses sur les Turtle
+1. Informations diverses sur les Turtles
 2. TurtleCoin a un temps de blocage de 30 secondes, ce qui signifie que la confirmation des transactions est plus rapide.
 3. TurtleCoin a une blockchain privée, personne d'autre que vous ne peut voir votre monnaie.
 4. Vous pouvez restaurer un portefeuille TurtleCoin perdu avec votre clé publique et votre clé privée.
@@ -35,7 +35,7 @@ Page: https//turtlecoin.lol/
 6. Facile d'emploi
 7. Nous supportons tous les systèmes d'exploitations, même <a href="http://turtlecoin.lol/wallet">sur mobile vous pouvez créer un portefeuille sécurisé gratuitement</a> et commencer à utiliser TurtleCoin en moins de 5 minutes.
 8. Facile à Miner
-9. TurtleCoin utilise son propre mineur sur CPU basique, mais vous pouvez aussi utiliser n'importe quel programme de minage de Minero auquel vous êtes habitués si vous préférez miner sur le GPU ou les mining pools. Nous recommendons <a href="https://github.com/fireice-uk/xmr-stak/releases/latest">XMR-Stak Unified Miner </a>.
+9. TurtleCoin utilise son propre mineur sur CPU basique, mais vous pouvez aussi utiliser n'importe quel programme de minage de Monero auquel vous êtes habitués si vous préférez miner sur le GPU ou les mining pools. Nous recommendons <a href="https://github.com/fireice-uk/xmr-stak/releases/latest">XMR-Stak Unified Miner </a>.
 10. Communauté
 11. La communauté TurtleCoin est très ouverte aux utilisateurs et aux développeurs. Vous ne serez pas agressé si quelque chose se passe mal, et nous acceptons les critiques. Rejoignez-nous sur notre <a href="http://chat.turtlecoin.lol">serveur Discord</a>.
 12. Support
@@ -77,7 +77,7 @@ Page: https//turtlecoin.lol/
 2. TurtleCoin est né le <strong>9 décembre 2017</strong>.
 3. Au début, nous n'étions que des lignes de commandes, uniquement disponibles pour Linux, et nous nous faisions bannir des forums en ligne pour le partage de TRTL en flash.
 4. Portefeuille GUI
-5. La Communauté TurtleCoin a durement travaillé afin de nous offrir une expérience graphique différente et le rafraichissement de la ligne de commande du portefeuille. Depuis le premier jour, nous avons oeuvré pour rendre TurtleCoin plus simple, et cela commence par un bon GUI. Faites votre choix parmi les portefeuilles suivantes :
+5. La Communauté TurtleCoin a durement travaillé afin de nous offrir une expérience graphique différente et le rafraichissement de la ligne de commande du portefeuille. Depuis le premier jour, nous avons oeuvré pour rendre TurtleCoin plus simple, et cela commence par un bon GUI. Faites votre choix parmi les portefeuilles suivant :
 6. Partenaires
 7. Nous espérions que les TurtleCoin seraient echangeable dès le deuxième trimestre de 2018, et cet objectif a été accompli sur plusieurs marchés.
 8. debut du Développement, Deuxième Trimestre 2018
@@ -87,7 +87,7 @@ Page: https//turtlecoin.lol/
 12. Karai, Contrats Simples et Malins
 13. Les réseaux distribués et digne de confiance ont des utilisations au-delà de la monnaie. Karai est notre objectif pour permettre l'activation des applications et des réseaux au-delà de la blockchain principale.
 14. Réseaux TurtlePay
-15. Qu'est ce qui est bien avec un ATM s'il n'est pas à proximité ? Touchez-et-payez, c'est du passé ; Touchez-et-gagnez, c'est l'avenir. Votre Crypto ATM se trouve dans votre poche.
+15. Qu'est ce qui est bien avec un point de retrait s'il n'est pas à proximité ? Touchez-et-payez, c'est du passé ; Touchez-et-gagnez, c'est l'avenir. Votre point de retrait se trouve dans votre poche.
  
  
 #Section - Toujours intéressé
