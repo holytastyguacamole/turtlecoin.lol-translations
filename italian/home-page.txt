@@ -31,7 +31,7 @@ Page: https://turtlecoin.lol/
 2. Transazioni veloci
 3. TurtleCoin genera blocchi ogni 30 secondi, non ogni 10 minuti. I tuoi soldi viaggiano 20 volte più veloce su TurtleCoin rispetto a Bitcoin o BitcoinCash.
 4. Privacy
-5. TurtleCoin ha gli stessi vantaggi di Monero and Aeon per quanto riguarda la privacy. Ogni transazione è privata a meno che tu non scelga di renderla pubblica.
+5. TurtleCoin ha gli stessi vantaggi di Monero e Aeon per quanto riguarda la privacy. Ogni transazione è privata a meno che tu non scelga di renderla pubblica.
 6. Facile da usare
 7. E' supportato praticamente ogni sistema operativo, anche dal cellulare puoi <a href="http://turtlecoin.lol/wallet">creare un paper-wallet sicuro gratuitamente</a>, ed iniziare con TurtleCoin in meno di 5 minuti.
 8. Facile da minare
@@ -46,16 +46,16 @@ Page: https://turtlecoin.lol/
 
 1. La storia
 2. Il nostro background
-3. La maggior parte dei collaboratori di TurtleCoin hanno una folta, curata barba. <strong>FATTO.</strong></h3>
+3. La maggior parte dei collaboratori di TurtleCoin hanno una folta, lussureggiante barba. <strong>FATTO.</strong></h3>
 4. <em>Questo ci fa guadagnare <strong>+10 punti esperienza</strong>, e migliora la nostra pazienza ed abilità di diagnosi. <i class="far fa-smile"></i></em>
-5. La verità è che la maggior parte di noi sono sviluppatori a tempo pieno in altri progetti, e questo è il nostro modo di tornare alla community con qualcosa di divertente.
+5. La verità è che la maggior parte di noi sono sviluppatori a tempo pieno in altri progetti, e questo è il nostro modo di restituire alla community con qualcosa di divertente.
 6. Come abbiamo iniziato
 7. Una fredda notte di Dicembre, RockSteady e Bebop stavano bevendo una birra discutendo della follia riguardo dubbie, ingannevoli ICO senza un minimo di prodotto da mostrare. Bebop sosteneva che al giorno d'oggi non è possibile dar vita ad un nuovo progetto senza un team serio, che fa marketing serio, senza un minimo di fondi.
-8. RockSteady si avvicinò lentamente, si passò la barba concentrato, e diede una risposta...
+8. RockSteady si avvicinò lentamente, si accarezzò la barba concentrato, e diede una risposta...
 9. <strong>"Tienimi la birra."</strong>
 10. Quella notte, il 9 Dicembre 2017, era nata TurtleCoin.
 12. Perchè?
-13. Troppi progetti stanno accumulando <strong>troppi fondi</strong> nonostante la maggior parte non abbiano <strong>un cavolo di prodotto</strong>. Abbiamo pensato "perchè non fare il contrario? Iniziare con un progetto divertente, renderlo il più semplice ed accessibile possibile e lasciarlo crescere per conto suo."
+13. Troppi progetti stanno accumulando <strong>troppi fondi</strong> nonostante la maggior parte non abbia <strong>un cavolo di prodotto</strong>. Abbiamo pensato "perchè non fare il contrario? Iniziare con un progetto divertente, renderlo il più semplice ed accessibile possibile e lasciarlo crescere per conto suo."
 14. Abbiamo molta fiducia nella nostra strategia senza-fondi; se creiamo un buon prodotto, <strong>il valore crescerà da solo</strong>. Se pensi che l'idea sia sbagliata, saremo felici di <a href="http://meta.turtlecoin.lol">parlarne</a>.
 15. Un saggio una volta disse, "Una tartaruga va avanti solo quando tira fuori il collo.."
 
@@ -68,16 +68,16 @@ Page: https://turtlecoin.lol/
 4. 1 Blocco ogni<br> 30 secondi
 5. Sviluppatori <br> <a href="http://chat.turtlecoin.lol">Unisciti a noi</a>
 6. Unisciti a noi
-7. Nessun Premine <br>No Shenanigans
+7. Nessun Premine <br>Nessun imbroglio
 
 
 # Section  - Roadmap
 
 1. Ciao Turtle
 2. TurtleCoin nasce il <strong>9 Dicembre 2017</strong>.
-3. All'inizio avevamo solo la riga di comando, compilata solo per Linux, e siamo stati ripetutamente bannati da vari forum per aver pubblicato giveaways di TRTL.
+3. All'inizio eravamo solo in riga di comando, compilati esclusivamente per Linux, e siamo stati ripetutamente bannati da vari forum per aver pubblicato giveaways di TRTL.
 4. GUI Wallets
-5. La community TurtleCoin ha lavorato sodo per rilasciare una esperienza grafica diversa, come anche rinnovando i wallet a riga di comando. Dal primo giorno, ci siamo promessi di rendere TurtleCoin facile da usare, e questo inizia con una buona interfaccia grafica. Prova uno di questi wallet:
+5. La community TurtleCoin ha lavorato sodo per rilasciare una esperienza grafica diversa, come anche rinnovando i wallet a riga di comando. Dal primo giorno, ci siamo impegnati a rendere TurtleCoin facile da usare, e questo inizia con una buona interfaccia grafica. Prova uno di questi wallet:
 6. Market Partnerships
 7. Abbiamo promesso di rendere i TurtleCoin acquistabili entro il Q2 2018, e abbiamo raggiunto l'obiettivo in vari market.
 8. Inizio sviluppo, Q2 2018
