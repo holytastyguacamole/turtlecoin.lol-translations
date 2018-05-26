@@ -21,8 +21,9 @@ the navbar here
 7. Guidelines
 8. Assets
 9. Join Us
+10. Back to Main
 
 
 Right at the bottom of the page (button for going back to the top)
 
-10: Up
+11: Up
