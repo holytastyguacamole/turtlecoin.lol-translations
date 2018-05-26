@@ -21,7 +21,7 @@ the navbar here
 7. Linee guida
 8. Asset
 9. Unisciti a noi
-10. Torna alla pagina principale
+10. Indietro
 
 
 Right at the bottom of the page (button for going back to the top)
