@@ -1,4 +1,4 @@
-https://turtlecoin.lol/
+https://turtlecoin.lol/fr
 
 Top 'Resources' navbar item
 
@@ -9,12 +9,12 @@ Top 'Resources' navbar item
 5. Lignes Directrices
 
 
-https://turtlecoin.lol/
+https://turtlecoin.lol/fr
 
 6. Proverbe
 
 
-https://turtlecoin.lol/brand/
+https://turtlecoin.lol/fr/brand/
 
 the navbar here
 
