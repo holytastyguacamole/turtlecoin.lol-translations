@@ -20,10 +20,10 @@ the navbar here
 
 7. Lignes Directrices
 8. Actifs
-9. Rejoignez-Nous
+9. Rejoignez-nous
 10. Retour à la page d'accueil
 
 
 Right at the bottom of the page (button for going back to the top)
 
-11. Haut
+11. Retour en haut
