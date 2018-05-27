@@ -4,8 +4,8 @@ Top 'Resources' navbar item
 
 1. Ressources
 2. Wiki TurtleCoin 
-3. Blog D�veloppeur 
-4. Ressources pour D�veloppeurs
+3. Blog Développeur 
+4. Ressources pour Développeurs
 5. Lignes Directrices
 
 
@@ -20,8 +20,8 @@ the navbar here
 
 7. Lignes Directrices
 8. Actifs
-9. Rejoignez-nous
-10. Retour αla page d'accueil
+9. Rejoignez-Nous
+10. Retour à la page d'accueil
 
 
 Right at the bottom of the page (button for going back to the top)
