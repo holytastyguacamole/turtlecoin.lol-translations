@@ -1,4 +1,4 @@
-https://turtlecoin.lol/it/
+https://turtlecoin.lol/
 
 Top 'Resources' navbar item
 
@@ -14,7 +14,7 @@ https://turtlecoin.lol/
 6. The word 'Quote' on this page.
 
 
-https://turtlecoin.lol/it/brand/
+https://turtlecoin.lol/brand/
 
 the navbar here
 
