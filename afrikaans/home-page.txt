@@ -1,0 +1,98 @@
+
+
+
+
+
+
+
+Bladsy: https://turtlecoin.lol/
+
+# Afdeling - banier
+
+1. TurtleCoin is vinnig
+2. TurtleCoin is maklik
+3. TurtleCoin is veilig
+4. TurtleCoin is 'n prettige, vinnige en maklike manier om geld aan vriende en besighede te stuur.
+5. Laai af
+6. <strong> Ons het toepasings gebou vir Windows, Apple en Ubuntu Linux. </ strong> As u verkies <strong> bronkode </ strong>, kan u dit <a href="https://github.com/turtlecoin/turtlecoin/"> hier </a> vind, maar u moet ook kontak ons ??<a href="http://chat.turtlecoin.lol"> hier </ a> omdat ons mense soek soos u om by ons aan te sluit.
+
+
+# Afdeling - Laai TurtleCoin af
+
+1. Kies jou stelsel
+2. Laai nuutste
+3. Laai GUI af
+4. Laai CLI af
+# Afdeling - Pret feite
+
+1. Pret Turtle feite 
+2. TurtleCoin het 'n 30 sekonde blok tyd, wat beteken dat transaksies bevestig vinniger.
+3. TurtleCoin het 'n private blok ketting, niemand sien jou geld behalwe jy nie.
+4. U kan 'n geskrapte TurtleCoin-beursie herstel met u vertoning sleutel en spandeer sleutel.
+# Afdeling - Waarom TurtleCoin?
+
+1. Hoekom TurtleCoin?
+2. Vinnige transaksies
+3. TurtleCoin skep elke 30 sekondes blokke, in teenstelling met elke 10 minute. Jou geld reis 20x vinniger op TurtleCoin as op Bitcoin of BitcoinCash.
+4. Privaatheid
+5. TurtleCoin het dieselfde privaatheidsfunksies wat jy in Monero en Aeon sal vind. Elke transaksie is privaat tensy u verkies om dit openbaar te maak.
+6. Maklik om te gebruik
+7. Ons ondersteun byna elke OS, selfs op die selfoon kan u <a href="http://turtlecoin.lol/wallet"> gratis 'n veilige papier-beursie maak </a> en begin met TurtleCoin onder 5 minute.
+8. Maklik vir myne
+9. TurtleCoin kom met sy eie basiese SVE-mynwerker, maar jy kan ook enige Monero-mynprogrammatuur gebruik wat jy gewoond is as jy GPU's of mypoeljies eerder gebruik. Ons beveel aan <a href="https://github.com/fireice-uk/xmr-stak/releases/latest"> XMR-Stak Unified Miner </a>.
+10. Gemeenskap
+11. Die TurtleCoin-gemeenskap is baie verwelkomend vir alle gebruikers en ontwikkelaars. Jy sal nie op geskree word wanneer dinge breek nie, en ons verwelkom kritiek op ons werk. Sluit asseblief by ons in ons <a href="http://chat.turtlecoin.lol"> Discord Chat </a>.
+12. Ondersteuning
+13. Ons groei 'n gemeenskap van ontwikkelaars en toetsers in ons <a href="http://meta.turtlecoin.lol"> GitHub-meta-forum </a>. U kan help deur sagteware te toets en foutverslae in te dien, of selfs ons van die kantlyn te juig.
+# Seksie - Die storie
+
+1. Die storie
+2. Ons Agtergrond
+3. Die meeste TurtleCoin-bydraers het n dik baard. <Strong> FEIT. </ Strong> </ h3>
+4. <em> Dit gee ons <strong> + 10xp baard vryf</ strong> vermoëns, en verhoog ons geduld en diagnostiese vaardighede. <i class = "far fa-smile"> </ i> </ em>
+5. Die waarheid is, die meeste van ons is voltydse ontwikkelaars op ander projekte, en dit is ons manier om terug te gee aan die gemeenskap met iets lekker.
+6. Hoe het ons dit begin
+7. Een koue Desember-aand het RockSteady en Bebop 'n bier te veel gehad terwyl hulle die waanzin oor valse, flouerige ICO's sonder produk bespreek. Bebop het vermoed dat dit net nie moontlik sou wees om 'n werklike projek nou uit te stel sonder 'n ernstige span, ernstige bemarking te doen en ernstige befondsing in te bring nie.
+8. RockSteady het intussen leun, sy baard intensief gevryf en net een reaksie gehad.
+9. <strong> "Hou my bier." </ Strong>
+10. Die nag, 9 Desember 2017, is TurtleCoin gebore.
+12. Hoekom?
+13. Te veel projekte bring <strong> te veel befondsing in </ strong> ten spyte van die meeste <strong> geen produk het nie </ strong>. Ons het uitgepluis, "hoekom doen nie die hele ding in omgekeerde nie? Begin met 'n prettige projek, maak dit so eenvoudig en toeganklik as moontlik, en laat dit self groei.
+14. Ons het 'n sterk oortuiging in ons nie-befondsingsstrategie; as ons 'n "koel" produk maak, sal <strong> die waarde homself skep </ strong>. As jy dink ons ??is verkeerd, is ons gelukkig om te <a href="http://meta.turtlecoin.lol"> praat </a> daaroor.
+15. 'n Wyse rot het eenkeer gesê: 'n Skilpad beweeg net vorentoe deur sy nek uit te steek. '
+
+
+# Afdeling - Die fynskrif
+
+1. Die fynskrif
+2. Hier is 'n paar vinnige besonderhede oor die projek.
+3. Gem. Blok Beloning
+4. 1 Blok elke <br> 30 sekondes
+5. Ontwikkelaars <br> <a href="http://chat.turtlecoin.lol"> Sluit by ons </a> aan
+6. Sluit by ons aan
+7. Geen Voorafmyn <br> Geen agterbaksheid nie
+# Afdeling - Padkaart
+
+1. Hello Turtle
+2. TurtleCoin is gebore <strong> 9 Desember 2017 </ strong>.
+3. In die begin was ons slegs opdrag lyn, slegs vir Linux saamgestel, en het ons herhaaldelik verban van aanlynforums vir die aanbied van Flash TRTL-geskenke.
+4. GUI Wallets
+5. TurtleCoin gemeenskap was hard aan die werk om ons 'n verskeidenheid grafiese ondervinding te bied, asook om die kommandolokie te verfriss. Vanaf dag een is ons daartoe verbind om TurtleCoin makliker te maak, en dit begin met 'n goeie GUI. Kies uit een van die volgende beursies:
+6. Markpartnerskap
+7. Ons het belowe om ons TurtleCoins in die openbaar te verhandel teen 2 Januarie 2018, en ons het daardie doel op verskeie markte bereik.
+8. Ontwikkeling begin, Q2 2018
+9. Mobius, vinnige blokke Geen sinchroniseer nie
+10. 'n Groot hoofpyn met bewys van werk is die sinkronisering van 'n groot ketting, en vinnige blokke help gewoonlik nie daardie probleem nie. Ons doel is om vinniger blokke op 'n korter ketting te produseer. Dit is miskien die mees aggressiewe doel en sal die meeste hulp benodig.
+11. TBA (word aangekondig)
+12. Karai, Eenvoudige Slim Kontrakte
+13. Verspreide, trustlose netwerke het gebruike buite die geldeenheid. Karai is ons doel om verspreide toepassings en netwerke buite die hoofblokkie te verseker.
+14. TurtlePay Netwerk
+15. Wat is 'n OTM wat goed is as dit nie naby is nie? Tap-en-betaal is gister; Tap-and-earn is môre. Jou naaste Crypto OTM is in jou sak.
+
+
+# Afdeling - Stel jy nog belang
+
+1. Ons het hulp nodig! Sluit by ons aan! Nee, ernstig! Wat jou vaardigheid ookal is, of watter idees jy het, ons is gereed om daarvan te hoor!
+
+2. Sluit by ons aan op Discord
+3. Sluit by ons aan op GitHub
