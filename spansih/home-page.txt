@@ -37,7 +37,7 @@ Page: https://turtlecoin.lol/
 4. Privacidad
 5. TurtleCoin tiene las mismas características de privacidad que encontrarás en Monero y Aeon. Todas las transacciones son privadas a menos que elija hacerlo público.
 6. Fácil de usar
-7. Apoyamos casi todos los sistemas operativos, incluso en dispositivos móviles, puede <a href="http://turtlecoin.lol/wallet"> crear una billetera segura de forma gratuita </a> y comenzar a utilizar TurtleCoin en menos de 5 minutos.
+7. Nuestra plataforma está disponible en casi todos los sistemas operativos, incluso en dispositivos móviles; puede <a href="http://turtlecoin.lol/wallet">crear una billetera segura de forma gratuita</a> y comenzar a utilizar TurtleCoin en menos de cinco minutos.
 8. Fácil de minar
 9. TurtleCoin viene con su propio minero de CPU básico, pero también puede usar cualquier software de minería de Monero al que esté acostumbrado si prefiere usar GPU o grupos de minería. Recomendamos <a href="https://github.com/fireice-uk/xmr-stak/releases/latest"> XMR-Stak Unified Miner </a>.
 10. Comunidad
