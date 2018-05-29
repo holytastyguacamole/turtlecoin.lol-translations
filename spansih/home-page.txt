@@ -15,7 +15,7 @@ Page: https://turtlecoin.lol/
 
 1. Seleccione su sistema
 2. Descargue la última version
-3. Descargar GUI
+3. Descargar GUI (Visual)
 4. Descarga CLI
 
 
