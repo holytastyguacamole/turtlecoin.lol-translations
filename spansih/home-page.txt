@@ -91,12 +91,13 @@ Page: https://turtlecoin.lol/
 12. Karai, contratos inteligentes simples
 13. Las redes distribuidas y sin confianza tienen usos más allá de monedas. Karai es nuestro objetivo para habilitar aplicaciones distribuidas y redes más allá de la cadena de bloques principal.
 14. TurtlePay Network
-15. ¿De qué sirve un cajero automático si no está cerca? Tap-and-pay es ayer; Tap-and-earn es mañana. Su cajero Crypto más cercano está en su bolsillo.
+15. ¿De qué sirve un cajero automático si no está cerca? Tap-and-pay es ayer; Tap-and-earn es el mañana. Su cajero Crypto más cercano ya lo tiene en el bolsillo.
 
 
-# Sección - Todavía interesado
 
-1. ¡Necesitamos ayuda! ¡Únete a nosotros! ¡No en serio! Cualquiera sea su habilidad, o las ideas que tenga, ¡estamos listos para escucharlo!
+# Sección - ¿Aún interesado?
 
-2. Únete a nosotros en Discord
-3. Únete a nosotros en GitHub
+1. ¡Necesitamos ayuda! ¡Únete a nosotros! ¡En serio! Cualquiera que sea tu habilidad, o las ideas que tengas, ¡estamos listos para escuchar! ¡TurtleCoin es una comunidad!
+2. Conversemos en Discord.
+3. Colabora en GitHub
+
