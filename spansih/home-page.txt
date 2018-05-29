@@ -43,7 +43,8 @@ Page: https://turtlecoin.lol/
 10. Comunidad
 11. La comunidad TurtleCoin es muy acogedora para todos los usuarios y desarrolladores. No te gritarán cuando las cosas se rompan, y recibimos críticas sobre nuestro trabajo. Únase a nosotros en nuestro <a href="http://chat.turtlecoin.lol"> Chat de Discord </a>.
 12. Apoyo
-13. Estamos desarrollando una comunidad de programadores en nuestro <a href="http://meta.turtlecoin.lol"> meta-foro de GitHub </a>. Puede ayudar probando el software y enviando informes de errores, o incluso simplemente animándonos desde el banquillo.
+13. Estamos desarrollando una comunidad de programadores en nuestro <a href="http://meta.turtlecoin.lol"> meta-foro de GitHub </a>. Cualquiera es bienvenido a proveer ayuda haciendo pruebas del software y enviando informes de errores, o incluso aplaudiendo el buen trabajo que logramos.
+
 
 # Section - La historia
 
