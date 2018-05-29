@@ -32,7 +32,7 @@ Page: https://turtlecoin.lol/
 # Section - ¿Por qué TurtleCoin?
 
 1. ¿Por qué TurtleCoin?
-2. Transacciones rápidas
+2. Rápidas transacciones
 3. TurtleCoin crea bloques cada 30 segundos, a diferencia de cada 10 minutos. Su dinero viaja 20 veces más rápido en TurtleCoin que en Bitcoin o BitcoinCash.
 4. Privacidad
 5. TurtleCoin tiene las mismas características de privacidad que encontrarás en Monero y Aeon. Todas las transacciones son privadas a menos que elija hacerlo público.
