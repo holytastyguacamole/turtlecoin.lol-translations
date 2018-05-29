@@ -22,9 +22,11 @@ Page: https://turtlecoin.lol/
 # Sección - Datos curiosos
 
 1. Datos divertidos de TurtleCoin
-2. En TurtleCoin cada bloque se mina en 30 segundos, lo que significa que las transacciones se confirman más rápido.
-3. TurtleCoin tiene un blockchain privado, nadie ve tu dinero excepto tú.
-4. Puede restaurar un monedero de TurtleCoin perdido con su clave view y clave spend.
+2. TurtleCoin tiene un lapso de treinta segundos por bloque, es decir que las transacciones se confirman más rápido.
+3. TurtleCoin tiene un blockchain privado, nadie más que tu ve los fondos y movimientos.
+4. Podrías restaurar tu cartera perdida con el veiw key. y el spend key.
+
+
 
 
 # Section - ¿Por qué TurtleCoin?
