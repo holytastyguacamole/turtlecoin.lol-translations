@@ -21,7 +21,7 @@
 
 # Sección - Contacto
 
-1. Todavía interesado?
+1. ¿Aún interesado?
 2. ¡Necesitamos ayuda! ¡Únete a nosotros! ¡No, en serio! Cualquiera sea su habilidad, o las ideas que tenga, ¡estamos listos para escucharlo!
 3. Únete a nosotros en Discord
 4. Únete a nosotros en GitHub
