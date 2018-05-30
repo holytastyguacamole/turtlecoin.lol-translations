@@ -39,44 +39,44 @@ Page: https://turtlecoin.lol/
 8. Fácil de minar
 9. TurtleCoin viene con su propio minero de CPU básico. Si prefieres usar to GPU o minar en un grupo, también puedes usar cualquier programa de minería de Monero. Nosotros recomendamos <a href="https://github.com/fireice-uk/xmr-stak/releases/latest">XMR-Stak Unified Miner</a>.
 10. Comunidad
-11. La comunidad TurtleCoin es muy acogedora para todos los usuarios y desarrolladores. No te gritarán cuando las cosas se rompan, y recibimos críticas sobre nuestro trabajo. Únase a nosotros en nuestro <a href="http://chat.turtlecoin.lol"> Chat de Discord </a>.
+11. La comunidad TurtleCoin es muy acogedora para todos los usuarios y desarrolladores. No te gritarán cuando las cosas se rompan, y recibimos críticas sobre nuestro trabajo. Acompáñanos en nuestro <a href="http://chat.turtlecoin.lol">Chat de Discord</a>.
 12. Apoyo
-13. Estamos desarrollando una comunidad de programadores en nuestro <a href="http://meta.turtlecoin.lol"> meta-foro de GitHub </a>. Cualquiera es bienvenido a proveer ayuda haciendo pruebas del software y enviando informes de errores, o incluso aplaudiendo el buen trabajo que logramos.
+13. Estamos desarrollando una comunidad de programadores en nuestro <a href="http://meta.turtlecoin.lol">Foro de GitHub</a>. Si quieres asistir, estas bienvenido a probar el programa, enviar informes de errores, o incluso aplaudir el buen trabajo que logramos.
 
 
 # Sección - La historia
 
-1. La historia
-2. Nuestro pasado
-3. La mayoría de los colaboradores de TurtleCoin tienen barbas gruesas y deliciosas. <strong> HECHO. </ strong> </ h3>
-4. <em> Esto mejora nuestra paciencia y habilidades de diagnóstico. <i class = "far fa-smile"> </ i> </ em>
+1. La Historia
+2. Nuestro Origen
+3. La mayoría de los colaboradores de TurtleCoin tienen barbas tupidas y abundantes. <strong>HECHO.</strong></h3>
+4. <em>Esto nos da <strong>+10exp Abilidad de Rascar la Barba</strong>, incrementa nuestra paciencia y las habilidades de diagnóstico. <i class = "far fa-smile"></i></em>
 5. La verdad es que la mayoría de nosotros somos programadores a tiempo completo en otros proyectos, y esta es nuestra forma de devolverle algo divertido a la comunidad.
 6. Cómo lo comenzamos
-7. Una fría noche de diciembre, RockSteady y Bebop estaban tomando cerveza mientras discutían sobre la locura en torno a los ICO falsos y sin ningún producto. Bebop conjeturó que simplemente no sería posible lanzar un proyecto real ahora sin un equipo serio, haciendo marketing serio y aportando fondos serios.
-8. RockSteady se inclinó, acarició su barba atentamente, y solo tuvo una respuesta.
-9. <strong> "Sostenga mi cerveza". </ Strong>
-10. Esa noche, 9 de diciembre de 2017, TurtleCoin nació.
+7. Una fría noche de Diciembre, RockSteady y Bebop estaban tomando cerveza mientras discutían sobre la locura en torno a los ICO falsos y sin ningún producto. Bebop dijo que estos dias simplemente no sería posible lanzar un proyecto sin un gran equipo, haciendo marketing y aportando fondos serios.
+8. RockSteady se inclinó, rasco su barba seriamente, y solo tuvo una respuesta.
+9. <strong>"Sostenga mi cerveza".</Strong>
+10. Esa noche, el 9 de Diciembre de 2017, TurtleCoin nació.
 12. ¿Por qué?
-13. Demasiados proyectos están recaudando <strong> demasiadas inversiones </ strong> a pesar de que la mayoría no tienen <strong> ningún producto </ strong>. Pensamos: "¿por qué no hacer todo al revés? Comenzar con un proyecto divertido, hacerlo de la manera más simple y accesible posible, y permitir que crezca por sí solo.
-14. Creemos firmemente en nuestra estrategia de no financiación; si hacemos un producto interesante, <strong> el valor se creará a sí mismo </ strong>. Si cree que estamos equivocados, nos complace poder <a href="http://meta.turtlecoin.lol"> hablar </a> al respecto.
-15. Una rata sabia dijo una vez, "Una tortuga solo avanza sacando su cuello ..."
+13. Estos dias hay muchos proyectos están recaudando <strong>demasiadas inversiones</strong> a pesar de que la mayoría no tienen <strong>ningún producto</strong>. Pensamos: "¿por qué no hacer todo al revés? Comenzar con un proyecto divertido, hacerlo de una manera  simple, sencilla y muy accesible, para que pueda crecer por sí solo.
+14. Creemos firmemente en nuestra estrategia de no financiación; si hacemos un producto interesante, <strong>el valor se creará a sí mismo</strong>. Si cree que estamos equivocados, nos complace poder <a href="http://meta.turtlecoin.lol">hablar</a> al respecto.
+15. Una rata sabia dijo una vez, "Una tortuga solo avanza sacando su cuello..."
 
 
-# Sección - La letra pequeña
+# Sección - Los detalles Pequeños
 
-1. La letra pequeña
+1. Los Detalles Pequeños
 2. Aquí hay algunos detalles rápidos sobre el proyecto.
 3. Recompensa promedia por Bloque
 4. 1 bloque cada 30 segundos
-5. Desarrolladores <br> <a href="http://chat.turtlecoin.lol"> Únete a nosotros </a>
-6. Únete a nosotros
-7. No recaudamos fondos <br> No Engaños
+5. Desarrolladores <br> <a href="http://chat.turtlecoin.lol">Acompáñanos</a>
+6. Acompáñanos
+7. Sin pre-mina <br>Sin Engaños
 
 
-# Sección - Roadmap
+# Sección - Guía
 
-1. Hola tortuga
-2. TurtleCoin nació <strong> el 9 de diciembre de 2017 </ strong>.
+1. Hola Tortuga
+2. TurtleCoin nació <strong>el 9 de diciembre de 2017</strong>.
 3. Al principio, solo se podia usar desde el Terminal, compilado solo para Linux y prohibidos repetidamente en foros online por creatr promociones regalando TRTL a todos.
 4. Monederos de Interfaz gráfica
 5. La comunidad de TurtleCoin ha estado trabajando duramente para brindarnos una experiencia gráfica diversa. Desde el primer día, nos hemos comprometido a hacer que TurtleCoin sea más fácil, y eso comienza con una buena Interfaz gráfica. Elija uno de los siguientes carteras:
