@@ -76,26 +76,26 @@ Page: https://turtlecoin.lol/
 # Sección - Guía
 
 1. Hola Tortuga
-2. TurtleCoin nació <strong>el 9 de diciembre de 2017</strong>.
-3. Al principio, solo se podia usar desde el Terminal, compilado solo para Linux y prohibidos repetidamente en foros online por creatr promociones regalando TRTL a todos.
-4. Monederos de Interfaz gráfica
-5. La comunidad de TurtleCoin ha estado trabajando duramente para brindarnos una experiencia gráfica diversa. Desde el primer día, nos hemos comprometido a hacer que TurtleCoin sea más fácil, y eso comienza con una buena Interfaz gráfica. Elija uno de los siguientes carteras:
-6. Sociedades en el mercado
+2. TurtleCoin nació <strong>el 9 de Diciembre de 2017</strong>.
+3. Al principio, solo se podia usar desde el Terminal, compilado solo para Linux. Fuimos prohibidos repetidamente en foros online por crear promociones regalando TRTL.
+4. Carteras de Interfaz Gráfica (GUI)
+5. La comunidad de TurtleCoin ha estado trabajando arduamente para brindarnos una cartera gráfica, y mejorando la cartera de Consola de Terminal. Desde el primer día, nos hemos comprometido a hacer que TurtleCoin sea más fácil, y eso comienza con una buena Interfaz gráfica. Elija una de las siguientes carteras:
+6. Asociaciones en el Mercado
 7. Nos comprometimos a que nuestras TurtleCoins se coticen en bolsas en el Q2 2018, y lo hemos logrado en varios mercados.
 8. Inicio de desarrolo, Q2 2018
-9. Mobius, Blocques rapido y sin sincronizacion
-10. Un gran dolor de cabeza con Proof of Work es sincronizar un gran Blockchain, y los bloques rápidos no suelen ayudar a resolver ese problema. Nuestro objetivo es producir bloques más rápidos en una cadena más corta. Este es quizás el objetivo más agresivo y requerirá la mayor cantidad de ayuda para completar.
+9. Mobius, Bloques rapidos y Sin sincronizacion
+10. Un gran dolor de cabeza con el Proof of Work es sincronizar una cadena muy grande, y los bloques rápidos no suelen ayudar a resolver ese problema. Nuestro objetivo es producir bloques más rápidos en una cadena más corta. Este es quizás el objetivo más difícil y el que vamos a necesitar más ayuda para completar.
 11. Por anunciarse
-12. Karai, contratos inteligentes simples
-13. Las redes distribuidas y sin confianza tienen usos más allá de monedas. Karai es nuestro objetivo para habilitar aplicaciones distribuidas y redes más allá de la cadena de bloques principal.
-14. TurtlePay Network
+12. Karai, contratos inteligentes y simples
+13. Las redes distribuidas que no necesitan confianza tienen más usos que solo el dinero. Karai es nuestro objetivo para crear aplicaciones distribuidas y redes más allá de la cadena de bloques principal.
+14. Red de TurtlePay
 15. ¿De qué sirve un cajero automático si no está cerca? Tap-and-pay es ayer; Tap-and-earn es el mañana. Su cajero Crypto más cercano ya lo tiene en el bolsillo.
 
 
+# Sección - ¿Estas interesado?
 
-# Sección - ¿Aún interesado?
+1. ¡Necesitamos ayuda! ¡Acompáñanos! ¡En serio! Cualquiera que sea tu habilidad, o las ideas que tengas, ¡estamos listos para escuchar! ¡TurtleCoin es una comunidad!
 
-1. ¡Necesitamos ayuda! ¡Únete a nosotros! ¡En serio! Cualquiera que sea tu habilidad, o las ideas que tengas, ¡estamos listos para escuchar! ¡TurtleCoin es una comunidad!
-2. Conversemos en Discord.
+2. Conversemos en Discord
 3. Colabora en GitHub
 
