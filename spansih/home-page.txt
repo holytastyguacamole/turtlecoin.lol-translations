@@ -3,50 +3,48 @@ Page: https://turtlecoin.lol/
 
 # Sección - banner
 
-1. TurtleCoin es rápido
-2. TurtleCoin es fácil
-3. TurtleCoin es seguro
+1. TurtleCoin es Rápido
+2. TurtleCoin es Fácil
+3. TurtleCoin es Seguro
 4. TurtleCoin es una forma fácil, rápida y divertida de enviar dinero a amigos y empresas.
 5. Descargar
-6. <strong> Tenemos versiones para Windows, Apple y Ubuntu Linux. </ strong> Si prefiere <strong> código fuente </ strong>, puede encontrarlo <a href="https://github.com/turtlecoin/turtlecoin/"> aquí </a>, pero también debeberia contactarnos <a href="http://chat.turtlecoin.lol"> aquí </a> porque estamos buscando personas como usted que se unan a nosotros.
+6. <strong> Tenemos versiones para Windows, Apple y Ubuntu Linux. </ strong>Si prefieres <strong>código fuente</ strong>, puedes encontrarlo <a href="https://github.com/turtlecoin/turtlecoin/">aquí</a>, pero también debeberia contactarnos <a href="http://chat.turtlecoin.lol">aquí</a> porque estamos buscando personas como usted que se unan a nosotros.
 
 
-# Section - Descargar TurtleCoin
+# Sección - Descargar TurtleCoin
 
-1. Seleccione su sistema
+1. Escoje Tu Sistema
 2. Descargue la última version
-3. Descargar GUI (Visual)
-4. Descarga CLI
+3. Descargar GUI
+4. Descargar CLI
 
 
 # Sección - Datos curiosos
 
-1. Datos divertidos de TurtleCoin
-2. TurtleCoin tiene un lapso de treinta segundos por bloque, es decir que las transacciones se confirman más rápido.
-3. TurtleCoin tiene un blockchain privado, nadie más que tu ve los fondos y movimientos.
-4. Podrías restaurar tu cartera perdida con el veiw key. y el spend key.
+1. ¿Sabes que?
+2. Las transacciones de TurtleCoin se confirman más rápido porque tiene un bloque de treinta segundos.
+3. Solamente tú puedes ver el dinero que tienes, TurtleCoin tiene un blockchain privado.
+4. Puedes restaurar una cartera perdida de TurtleCoin con el "view key" y el "spend key".
 
 
-
-
-# Section - ¿Por qué TurtleCoin?
+# Sección - ¿Por qué TurtleCoin?
 
 1. ¿Por qué TurtleCoin?
-2. Rápidas transacciones
-3. TurtleCoin crea bloques cada 30 segundos, a diferencia de cada 10 minutos. Su dinero viaja 20 veces más rápido en TurtleCoin que en Bitcoin o BitcoinCash.
+2. Transacciones Rápidas
+3. En vez de cada 10 minutos, Turtlecoin crea bloques cada 30 segundos. Esto significa que su dinero viaja 20 veces más rápido en TurtleCoin que en Bitcoin o BitcoinCash.
 4. Privacidad
 5. TurtleCoin tiene las mismas características de privacidad que encontrarás en Monero y Aeon. Todas las transacciones son privadas a menos que elija hacerlo público.
 6. Fácil de usar
-7. Nuestra plataforma está disponible en casi todos los sistemas operativos, incluso en dispositivos móviles; puede <a href="http://turtlecoin.lol/wallet">crear una billetera segura de forma gratuita</a> y comenzar a utilizar TurtleCoin en menos de cinco minutos.
+7. Nuestra plataforma está disponible en casi todos los sistemas operativos, incluso en tu móvil puedes <a href="http://turtlecoin.lol/wallet">crear una cartera-de-papel segura y gratuita</a>, para comenzar a recibir TurtleCoin en menos de cinco minutos.
 8. Fácil de minar
-9. TurtleCoin viene con su propio minero de CPU básico, pero también puede usar cualquier software de minería de Monero al que esté acostumbrado si prefiere usar GPU o grupos de minería. Recomendamos <a href="https://github.com/fireice-uk/xmr-stak/releases/latest"> XMR-Stak Unified Miner </a>.
+9. TurtleCoin viene con su propio minero de CPU básico. Si prefieres usar to GPU o minar en un grupo, también puedes usar cualquier programa de minería de Monero. Nosotros recomendamos <a href="https://github.com/fireice-uk/xmr-stak/releases/latest">XMR-Stak Unified Miner</a>.
 10. Comunidad
 11. La comunidad TurtleCoin es muy acogedora para todos los usuarios y desarrolladores. No te gritarán cuando las cosas se rompan, y recibimos críticas sobre nuestro trabajo. Únase a nosotros en nuestro <a href="http://chat.turtlecoin.lol"> Chat de Discord </a>.
 12. Apoyo
 13. Estamos desarrollando una comunidad de programadores en nuestro <a href="http://meta.turtlecoin.lol"> meta-foro de GitHub </a>. Cualquiera es bienvenido a proveer ayuda haciendo pruebas del software y enviando informes de errores, o incluso aplaudiendo el buen trabajo que logramos.
 
 
-# Section - La historia
+# Sección - La historia
 
 1. La historia
 2. Nuestro pasado
@@ -64,7 +62,7 @@ Page: https://turtlecoin.lol/
 15. Una rata sabia dijo una vez, "Una tortuga solo avanza sacando su cuello ..."
 
 
-# Section - La letra pequeña
+# Sección - La letra pequeña
 
 1. La letra pequeña
 2. Aquí hay algunos detalles rápidos sobre el proyecto.
