@@ -1,4 +1,3 @@
-
 Page: https://turtlecoin.lol/
 
 # Sección - banner
@@ -6,15 +5,15 @@ Page: https://turtlecoin.lol/
 1. TurtleCoin es Rápido
 2. TurtleCoin es Fácil
 3. TurtleCoin es Seguro
-4. TurtleCoin es una forma fácil, rápida y divertida de enviar dinero a amigos y empresas.
+4. TurtleCoin es una manera fácil, rápida y placentera de enviar dinero a tus amigos y a las empresas.
 5. Descargar
-6. <strong> Tenemos versiones para Windows, Apple y Ubuntu Linux. </ strong>Si prefieres <strong>código fuente</ strong>, puedes encontrarlo <a href="https://github.com/turtlecoin/turtlecoin/">aquí</a>, pero también debeberia contactarnos <a href="http://chat.turtlecoin.lol">aquí</a> porque estamos buscando personas como usted que se unan a nosotros.
+6. <strong>Tenemos versiones para Windows, Apple y Ubuntu Linux. </strong>Si prefieres <strong>código fuente</strong>, puedes encontrarlo <a href="https://github.com/turtlecoin/turtlecoin/">aquí</a>, pero también deberias contáctarnos <a href="http://chat.turtlecoin.lol">aquí</a> porque estamos buscando personas como tú en nuestra communidad.
 
 
 # Sección - Descargar TurtleCoin
 
 1. Escoje Tu Sistema
-2. Descargue la última version
+2. Descargar la última version
 3. Descargar GUI
 4. Descargar CLI
 
@@ -31,15 +30,15 @@ Page: https://turtlecoin.lol/
 
 1. ¿Por qué TurtleCoin?
 2. Transacciones Rápidas
-3. En vez de cada 10 minutos, Turtlecoin crea bloques cada 30 segundos. Esto significa que su dinero viaja 20 veces más rápido en TurtleCoin que en Bitcoin o BitcoinCash.
+3. En vez de cada 10 minutos, Turtlecoin crea bloques cada 30 segundos. Esto significa que tu dinero viaja 20 veces más rápido en TurtleCoin que en Bitcoin o BitcoinCash.
 4. Privacidad
-5. TurtleCoin tiene las mismas características de privacidad que encontrarás en Monero y Aeon. Todas las transacciones son privadas a menos que elija hacerlo público.
-6. Fácil de usar
+5. TurtleCoin tiene las mismas características de privacidad que encontrarás en Monero y Aeon. Todas las transacciones son privadas a menos que tu elijas a hacerlas públicas.
+6. Fácil De Usar
 7. Nuestra plataforma está disponible en casi todos los sistemas operativos, incluso en tu móvil puedes <a href="http://turtlecoin.lol/wallet">crear una cartera-de-papel segura y gratuita</a>, para comenzar a recibir TurtleCoin en menos de cinco minutos.
-8. Fácil de minar
-9. TurtleCoin viene con su propio minero de CPU básico. Si prefieres usar to GPU o minar en un grupo, también puedes usar cualquier programa de minería de Monero. Nosotros recomendamos <a href="https://github.com/fireice-uk/xmr-stak/releases/latest">XMR-Stak Unified Miner</a>.
+8. Fácil De Minar
+9. El programa de TurtleCoin viene con su propio minero de CPU básico. Si prefieres usar tu GPU, o minar en un grupo, también puedes usar cualquier programa de minería de Monero. Nosotros recomendamos <a href="https://github.com/fireice-uk/xmr-stak/releases/latest">XMR-Stak Unified Miner</a>.
 10. Comunidad
-11. La comunidad TurtleCoin es muy acogedora para todos los usuarios y desarrolladores. No te gritarán cuando las cosas se rompan, y recibimos críticas sobre nuestro trabajo. Acompáñanos en nuestro <a href="http://chat.turtlecoin.lol">Chat de Discord</a>.
+11. La comunidad TurtleCoin es muy amistosa para todos los usuarios y desarrolladores. No te gritarán cuando las cosas se rompan, y estamos abiertos a recibir críticas sobre nuestro trabajo. Acompáñanos en nuestro <a href="http://chat.turtlecoin.lol">Chat de Discord</a>.
 12. Apoyo
 13. Estamos desarrollando una comunidad de programadores en nuestro <a href="http://meta.turtlecoin.lol">Foro de GitHub</a>. Si quieres asistir, estas bienvenido a probar el programa, enviar informes de errores, o incluso aplaudir el buen trabajo que logramos.
 
@@ -51,18 +50,18 @@ Page: https://turtlecoin.lol/
 3. La mayoría de los colaboradores de TurtleCoin tienen barbas tupidas y abundantes. <strong>HECHO.</strong></h3>
 4. <em>Esto nos da <strong>+10exp Abilidad de Rascar la Barba</strong>, incrementa nuestra paciencia y las habilidades de diagnóstico. <i class = "far fa-smile"></i></em>
 5. La verdad es que la mayoría de nosotros somos programadores a tiempo completo en otros proyectos, y esta es nuestra forma de devolverle algo divertido a la comunidad.
-6. Cómo lo comenzamos
-7. Una fría noche de Diciembre, RockSteady y Bebop estaban tomando cerveza mientras discutían sobre la locura en torno a los ICO falsos y sin ningún producto. Bebop dijo que estos dias simplemente no sería posible lanzar un proyecto sin un gran equipo, haciendo marketing y aportando fondos serios.
-8. RockSteady se inclinó, rasco su barba seriamente, y solo tuvo una respuesta.
+6. Cómo comenzamos
+7. Una fría noche de Diciembre, RockSteady y Bebop estaban tomando cerveza mientras discutían sobre la locura en torno a los ICO falsos y sin ningún producto. Bebop dijo que estos dias simplemente no sería posible lanzar un proyecto sin un grupo muy grande, haciendo marketing y contribuyendo mucho dinero.
+8. RockSteady se inclinó, acarició su barba, y solo tuvo una respuesta..
 9. <strong>"Sostenga mi cerveza".</Strong>
 10. Esa noche, el 9 de Diciembre de 2017, TurtleCoin nació.
 12. ¿Por qué?
-13. Estos dias hay muchos proyectos están recaudando <strong>demasiadas inversiones</strong> a pesar de que la mayoría no tienen <strong>ningún producto</strong>. Pensamos: "¿por qué no hacer todo al revés? Comenzar con un proyecto divertido, hacerlo de una manera  simple, sencilla y muy accesible, para que pueda crecer por sí solo.
-14. Creemos firmemente en nuestra estrategia de no financiación; si hacemos un producto interesante, <strong>el valor se creará a sí mismo</strong>. Si cree que estamos equivocados, nos complace poder <a href="http://meta.turtlecoin.lol">hablar</a> al respecto.
+13. Estos dias hay muchos proyectos están recaudando <strong>demasiado dinero</strong> a pesar de que la mayoría no tienen <strong>ningún producto</strong>. Pensamos: "¿por qué no hacer todo al revés? Comenzar con un proyecto divertido, hacerlo de una manera simple, sencilla y muy accesible para que pueda crecer por sí solo.
+14. Creemos firmemente en nuestra estrategia de no financiación; si creamos un producto interesante, <strong>el valor se creará a sí mismo</strong>. Si crees que estamos equivocados, entra a nuestro Discord y <a href="http://meta.turtlecoin.lol">explícanos</a> por qué.
 15. Una rata sabia dijo una vez, "Una tortuga solo avanza sacando su cuello..."
 
 
-# Sección - Los detalles Pequeños
+# Sección - Los Detalles Pequeños
 
 1. Los Detalles Pequeños
 2. Aquí hay algunos detalles rápidos sobre el proyecto.
@@ -79,17 +78,17 @@ Page: https://turtlecoin.lol/
 2. TurtleCoin nació <strong>el 9 de Diciembre de 2017</strong>.
 3. Al principio, solo se podia usar desde el Terminal, compilado solo para Linux. Fuimos prohibidos repetidamente en foros online por crear promociones regalando TRTL.
 4. Carteras de Interfaz Gráfica (GUI)
-5. La comunidad de TurtleCoin ha estado trabajando arduamente para brindarnos una cartera gráfica, y mejorando la cartera de Consola de Terminal. Desde el primer día, nos hemos comprometido a hacer que TurtleCoin sea más fácil, y eso comienza con una buena Interfaz gráfica. Elija una de las siguientes carteras:
-6. Asociaciones en el Mercado
+5. La comunidad de TurtleCoin ha estado trabajando arduamente para brindarnos una cartera gráfica, y mejorando la cartera de Consola de Terminal. Desde el primer día, nos hemos comprometido a hacer que TurtleCoin sea más fácil de usar, y eso comienza con una buena Interfaz gráfica. Elija una de las siguientes carteras:
+6. Asociaciones del Mercado
 7. Nos comprometimos a que nuestras TurtleCoins se coticen en bolsas en el Q2 2018, y lo hemos logrado en varios mercados.
 8. Inicio de desarrolo, Q2 2018
 9. Mobius, Bloques rapidos y Sin sincronizacion
 10. Un gran dolor de cabeza con el Proof of Work es sincronizar una cadena muy grande, y los bloques rápidos no suelen ayudar a resolver ese problema. Nuestro objetivo es producir bloques más rápidos en una cadena más corta. Este es quizás el objetivo más difícil y el que vamos a necesitar más ayuda para completar.
-11. Por anunciarse
+11. Anuncio Pendiente 
 12. Karai, contratos inteligentes y simples
-13. Las redes distribuidas que no necesitan confianza tienen más usos que solo el dinero. Karai es nuestro objetivo para crear aplicaciones distribuidas y redes más allá de la cadena de bloques principal.
+13. Las redes distribuidas que no necesitan confianza tienen más usos que solo el dinero. Karai es nuestro objetivo para crear aplicaciones distribuidas y redes fuera de la cadena de bloques principal.
 14. Red de TurtlePay
-15. ¿De qué sirve un cajero automático si no está cerca? Tap-and-pay es ayer; Tap-and-earn es el mañana. Su cajero Crypto más cercano ya lo tiene en el bolsillo.
+15. ¿De qué sirve un cajero automático si no está cerca? "Tap-and-pay" es ayer; "Tap-and-earn" es el mañana. Su cajero Crypto más cercano ya lo tiene en el bolsillo.
 
 
 # Sección - ¿Estas interesado?
@@ -98,4 +97,3 @@ Page: https://turtlecoin.lol/
 
 2. Conversemos en Discord
 3. Colabora en GitHub
-
